@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0134-gas-station) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
