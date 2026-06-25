@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
