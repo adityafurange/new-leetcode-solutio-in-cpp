@@ -16,7 +16,7 @@ public:
     return head;
 
     ListNode *temp=head;
-    while(temp!=NULL)
+   /* while(temp!=NULL)
 { if(temp->next!=NULL)
 {
     swap(temp->val,temp->next->val);
@@ -25,7 +25,27 @@ public:
     else return head;
 
 }
-return head;
+return head;*/
+ 
+        ListNode *dummy=new ListNode(0);
+        dummy->next = head;
 
+        ListNode* prev = dummy;
+
+        while (prev->next && prev->next->next) {
+
+            ListNode* first = prev->next;
+            ListNode* second = first->next;
+
+            // Swap nodes
+            first->next = second->next;
+            second->next = first;
+            prev->next = second;
+
+            // Move prev to the next pair
+            prev = first;
+        }
+
+        return dummy->next;
     }
 };
