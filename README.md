@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0206-reverse-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
