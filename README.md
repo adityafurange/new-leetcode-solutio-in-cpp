@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0328-odd-even-linked-list) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Hash Table
