@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0876-middle-of-the-linked-list) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
