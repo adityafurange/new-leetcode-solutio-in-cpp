@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0134-gas-station) |
@@ -81,5 +82,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0074-search-a-2d-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
