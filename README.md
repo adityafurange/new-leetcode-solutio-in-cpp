@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0136-single-number) |
 | [0376-wiggle-subsequence](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0376-wiggle-subsequence) |
 | [0605-can-place-flowers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0605-can-place-flowers) |
+| [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
@@ -88,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
