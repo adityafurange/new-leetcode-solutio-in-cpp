@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0605-can-place-flowers) |
 | [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
 | ------- |
