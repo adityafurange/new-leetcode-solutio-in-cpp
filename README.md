@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
 ## Simulation
