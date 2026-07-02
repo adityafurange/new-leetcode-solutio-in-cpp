@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0326-power-of-three) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0376-wiggle-subsequence) |
 ## Greedy
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
