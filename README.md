@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0229-majority-element-ii) |
 | [0376-wiggle-subsequence](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0376-wiggle-subsequence) |
 | [0605-can-place-flowers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0605-can-place-flowers) |
 | [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0229-majority-element-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0229-majority-element-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0219-contains-duplicate-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
