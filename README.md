@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0326-power-of-three) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
