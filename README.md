@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0326-power-of-three) |
 ## Math
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
