@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1991-find-the-middle-index-in-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1991-find-the-middle-index-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0234-palindrome-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
