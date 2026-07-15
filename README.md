@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0326-power-of-three) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1991-find-the-middle-index-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
