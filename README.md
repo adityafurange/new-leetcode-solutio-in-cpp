@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0326-power-of-three) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1991-find-the-middle-index-in-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -151,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
