@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0229-majority-element-ii) |
 | [0376-wiggle-subsequence](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0376-wiggle-subsequence) |
 | [0605-can-place-flowers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
