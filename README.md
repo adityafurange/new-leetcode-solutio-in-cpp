@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0376-wiggle-subsequence) |
 | [0605-can-place-flowers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0605-can-place-flowers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0242-valid-anagram) |
 | [0917-reverse-only-letters](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0917-reverse-only-letters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
