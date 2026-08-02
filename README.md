@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0877-stone-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3536-maximum-product-of-two-digits) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0877-stone-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1748-sum-of-unique-elements) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0376-wiggle-subsequence) |
+| [0877-stone-game](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
