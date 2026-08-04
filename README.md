@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1748-sum-of-unique-elements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1991-find-the-middle-index-in-array) |
+| [3731-find-missing-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
