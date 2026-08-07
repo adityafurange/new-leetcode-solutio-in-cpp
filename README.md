@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0242-valid-anagram) |
 | [0917-reverse-only-letters](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0917-reverse-only-letters) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
