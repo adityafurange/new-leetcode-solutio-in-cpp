@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1748-sum-of-unique-elements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1991-find-the-middle-index-in-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3731-find-missing-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/0074-search-a-2d-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityafurange/new-leetcode-solutio-in-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
